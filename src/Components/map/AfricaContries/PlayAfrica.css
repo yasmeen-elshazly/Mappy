@@ -1,0 +1,50 @@
+.containerDiv {
+    flex: 3; 
+    border: 2px solid #4CAF50; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    margin: 20px;
+    overflow: hidden;
+    font-size: 14px; /* Smaller font size for the entire container */
+}
+
+.questionAndFlagContainer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: white;
+    border-bottom: 1px solid #ccc;
+    font-size: 14px; /* Smaller font size */
+}
+
+#question-container {
+    flex: 1;
+    padding: 10px;
+    font-size: 14px; /* Smaller font size */
+}
+
+.flagContainer img {
+    width: 45px;
+    height: auto;
+    border: 1px solid #ccc;
+}
+
+.map-view {
+    display: flex;
+    height: 85vh;
+    width: 100%;
+}
+
+.attempts {
+    padding-left: 10px;
+    font-size: 12px; /* Smaller font size */
+}
+
+.score {
+    padding-left: 10px;
+    font-size: 12px; /* Smaller font size */
+}
+
+.list-group-item {
+    font-size: 14px; /* Smaller font size for list items */
+}

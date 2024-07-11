@@ -1,0 +1,37 @@
+ /* Top, Right, Bottom, Left */
+ body {
+     background-color: #F3F7EC;
+     font-weight: 600;
+ }
+
+ .formDiv {
+     border-radius: 5px;
+     justify-content: center;
+     align-items: center;
+     box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+     margin: 20px 400px 30px 400px;
+     padding: 50px 150px;
+     background-color: #78aba868;
+ }
+
+ .padBtnSign {
+     width: 430px;
+     border-radius: 20px !important;
+     align-items: center;
+     margin-bottom: 10px;
+ }
+
+ .padBtnLog {
+     width: 430px;
+     border-radius: 20px !important;
+     align-items: center;
+     margin-bottom: 10px;
+ }
+
+ .Mapy {
+     margin-top: 40px;
+     color: #3572EF;
+     font-size: 50px;
+     font-weight: 800;
+     text-align: center;
+ }

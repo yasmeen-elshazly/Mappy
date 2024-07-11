@@ -1,0 +1,76 @@
+.map-wrapper {
+    display: flex;
+    height: 100vh; /* Full height of the viewport */
+    width: 100%; /* Full width of the viewport */
+}
+
+.map-container {
+    flex: 3; /* Take up 3/4 of the width */
+    border: 2px solid #4CAF50; /* Green border */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    margin: 20px;
+    overflow: hidden;
+}
+
+.sidebar {
+    flex: 1; /* Take up 1/4 of the width */
+    padding: 10px;
+    background-color: #f9f9f9; /* Light gray background */
+    border-left: 2px solid #4CAF50; /* Green border on the left */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    margin: 10px;
+    display:inline ;
+    flex-direction: column;
+}
+
+.back-button {
+    margin-bottom: 20px; /* Spacing below the back button */
+}
+
+.list-group-item {
+    cursor: pointer; /* Show pointer cursor on hover */
+}
+
+.list-group-item:hover {
+    background-color: #dcdcdc; /* Light gray background on hover */
+}
+
+/* MapComponent.css */
+
+/* Customize popup content */
+.esri-popup-content {
+    max-width: 300px;
+    font-size: 14px;
+}
+
+.popup-image {
+    width: 100%;
+    height: auto;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+.esri-features__content-feature {
+    background-color: #f0f0f0; /* Example background color */
+    padding: 8px; /* Reduced padding */
+    border-radius: 6px; /* Rounded corners */
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1); /* Smaller shadow */
+    margin-bottom: 10px; /* Reduced margin */
+    width: 100%; /* Full width within parent container */
+}
+
+.esri-features__content-feature h2 {
+    margin-top: 0; /* Reset margin for heading */
+    margin-bottom: 11px; /* Space below heading */
+    font-size: 16px; /* Example font size */
+    color: #333; /* Example text color */
+}
+
+.esri-features__content-feature p {
+    margin-top: 0; /* Reset margin for paragraphs */
+    font-size: 14px; /* Example font size */
+    line-height: 1.5; /* Example line height */
+    color: #666; /* Example text color */
+}

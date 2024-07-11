@@ -1,0 +1,90 @@
+.map-wrapper {
+  display: flex;
+  height: 100vh;
+  width: 100%;
+}
+
+.map-container {
+  flex: 3;
+  border: 2px solid #4CAF50;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  margin: 20px;
+  overflow: hidden;
+}
+
+.sidebar {
+  flex: 1;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-left: 2px solid #4CAF50;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.sidebar h2 {
+  text-align: center;
+  color: #4CAF50;
+  margin-bottom: 10px;
+  font-size: 1.5rem;
+}
+
+.sidebar h3 {
+  margin: 0;
+  color: #4CAF50;
+  font-size: 1.2rem;
+}
+
+.sidebar ul {
+  list-style: none;
+  padding: 0;
+  margin: 10px 0;
+}
+
+.sidebar li {
+  padding: 5px 0;
+  color: #555;
+}
+
+.error-message {
+  color: #d9534f;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.start-game-button,
+.next-question-button,
+.back-to-info-button {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  padding: 10px;
+  margin: 5px 0;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  font-size: 1rem;
+}
+
+.start-game-button:hover,
+.next-question-button:hover,
+.back-to-info-button:hover {
+  background-color: #45a049;
+}
+
+.feedback-message {
+  color: #4CAF50;
+  font-weight: bold;
+  margin: 10px 0;
+}
+
+.hint-message {
+  color: #FF5733;
+  font-weight: bold;
+  margin: 10px 0;
+}

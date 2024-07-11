@@ -1,0 +1,70 @@
+D:\iti courses\courses\asp.net\map game project\Game\Game.Models\bin\Debug\net8.0\Game.Models.deps.json
+D:\iti courses\courses\asp.net\map game project\Game\Game.Models\bin\Debug\net8.0\Game.Models.runtimeconfig.json
+D:\iti courses\courses\asp.net\map game project\Game\Game.Models\bin\Debug\net8.0\Game.Models.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Models\bin\Debug\net8.0\Game.Models.pdb
+D:\iti courses\courses\asp.net\map game project\Game\Game.Models\obj\Debug\net8.0\Game.Models.csproj.AssemblyReference.cache
+D:\iti courses\courses\asp.net\map game project\Game\Game.Models\obj\Debug\net8.0\Game.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\iti courses\courses\asp.net\map game project\Game\Game.Models\obj\Debug\net8.0\Game.Models.AssemblyInfoInputs.cache
+D:\iti courses\courses\asp.net\map game project\Game\Game.Models\obj\Debug\net8.0\Game.Models.AssemblyInfo.cs
+D:\iti courses\courses\asp.net\map game project\Game\Game.Models\obj\Debug\net8.0\Game.Models.csproj.CoreCompileInputs.cache
+D:\iti courses\courses\asp.net\map game project\Game\Game.Models\obj\Debug\net8.0\Game.Models.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Models\obj\Debug\net8.0\refint\Game.Models.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Models\obj\Debug\net8.0\Game.Models.pdb
+D:\iti courses\courses\asp.net\map game project\Game\Game.Models\obj\Debug\net8.0\Game.Models.genruntimeconfig.cache
+D:\iti courses\courses\asp.net\map game project\Game\Game.Models\obj\Debug\net8.0\ref\Game.Models.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Models\bin\Debug\net8.0\Game.Models.deps.json
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Models\bin\Debug\net8.0\Game.Models.runtimeconfig.json
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Models\bin\Debug\net8.0\Game.Models.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Models\bin\Debug\net8.0\Game.Models.pdb
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Models\obj\Debug\net8.0\Game.Models.csproj.AssemblyReference.cache
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Models\obj\Debug\net8.0\Game.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Models\obj\Debug\net8.0\Game.Models.AssemblyInfoInputs.cache
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Models\obj\Debug\net8.0\Game.Models.AssemblyInfo.cs
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Models\obj\Debug\net8.0\Game.Models.csproj.CoreCompileInputs.cache
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Models\obj\Debug\net8.0\Game.Models.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Models\obj\Debug\net8.0\refint\Game.Models.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Models\obj\Debug\net8.0\Game.Models.pdb
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Models\obj\Debug\net8.0\Game.Models.genruntimeconfig.cache
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Models\obj\Debug\net8.0\ref\Game.Models.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Models\bin\Debug\net8.0\Game.Models.deps.json
+F:\Graduation Project\React\123456\map game project2\Game\Game.Models\bin\Debug\net8.0\Game.Models.runtimeconfig.json
+F:\Graduation Project\React\123456\map game project2\Game\Game.Models\bin\Debug\net8.0\Game.Models.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Models\bin\Debug\net8.0\Game.Models.pdb
+F:\Graduation Project\React\123456\map game project2\Game\Game.Models\obj\Debug\net8.0\Game.Models.csproj.AssemblyReference.cache
+F:\Graduation Project\React\123456\map game project2\Game\Game.Models\obj\Debug\net8.0\Game.Models.GeneratedMSBuildEditorConfig.editorconfig
+F:\Graduation Project\React\123456\map game project2\Game\Game.Models\obj\Debug\net8.0\Game.Models.AssemblyInfoInputs.cache
+F:\Graduation Project\React\123456\map game project2\Game\Game.Models\obj\Debug\net8.0\Game.Models.AssemblyInfo.cs
+F:\Graduation Project\React\123456\map game project2\Game\Game.Models\obj\Debug\net8.0\Game.Models.csproj.CoreCompileInputs.cache
+F:\Graduation Project\React\123456\map game project2\Game\Game.Models\obj\Debug\net8.0\Game.Models.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Models\obj\Debug\net8.0\refint\Game.Models.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Models\obj\Debug\net8.0\Game.Models.pdb
+F:\Graduation Project\React\123456\map game project2\Game\Game.Models\obj\Debug\net8.0\Game.Models.genruntimeconfig.cache
+F:\Graduation Project\React\123456\map game project2\Game\Game.Models\obj\Debug\net8.0\ref\Game.Models.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Models\bin\Debug\net8.0\Game.Models.deps.json
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Models\bin\Debug\net8.0\Game.Models.runtimeconfig.json
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Models\bin\Debug\net8.0\Game.Models.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Models\bin\Debug\net8.0\Game.Models.pdb
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Models\obj\Debug\net8.0\Game.Models.csproj.AssemblyReference.cache
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Models\obj\Debug\net8.0\Game.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Models\obj\Debug\net8.0\Game.Models.AssemblyInfoInputs.cache
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Models\obj\Debug\net8.0\Game.Models.AssemblyInfo.cs
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Models\obj\Debug\net8.0\Game.Models.csproj.CoreCompileInputs.cache
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Models\obj\Debug\net8.0\Game.Models.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Models\obj\Debug\net8.0\refint\Game.Models.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Models\obj\Debug\net8.0\Game.Models.pdb
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Models\obj\Debug\net8.0\Game.Models.genruntimeconfig.cache
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Models\obj\Debug\net8.0\ref\Game.Models.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Models\bin\Debug\net8.0\Game.Models.deps.json
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Models\bin\Debug\net8.0\Game.Models.runtimeconfig.json
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Models\bin\Debug\net8.0\Game.Models.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Models\bin\Debug\net8.0\Game.Models.pdb
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Models\obj\Debug\net8.0\Game.Models.csproj.AssemblyReference.cache
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Models\obj\Debug\net8.0\Game.Models.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Models\obj\Debug\net8.0\Game.Models.AssemblyInfoInputs.cache
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Models\obj\Debug\net8.0\Game.Models.AssemblyInfo.cs
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Models\obj\Debug\net8.0\Game.Models.csproj.CoreCompileInputs.cache
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Models\obj\Debug\net8.0\Game.Models.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Models\obj\Debug\net8.0\refint\Game.Models.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Models\obj\Debug\net8.0\Game.Models.pdb
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Models\obj\Debug\net8.0\Game.Models.genruntimeconfig.cache
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Models\obj\Debug\net8.0\ref\Game.Models.dll

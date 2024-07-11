@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\ITI\\DATA\\Graduation Project\\Final\\.NET\\map game project2\\Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{163FBE32-896E-4FC8-8764-A1CF96B2BB49}|Game.Context\\Game.Context.csproj|f:\\iti\\data\\graduation project\\final\\.net\\map game project2\\game\\game.context\\context\\gamedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{163FBE32-896E-4FC8-8764-A1CF96B2BB49}|Game.Context\\Game.Context.csproj|solutionrelative:game.context\\context\\gamedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F0FAC8-73BC-495E-91D4-64BA182992D3}|Game.Presentation\\Game.Presentation.csproj|f:\\iti\\data\\graduation project\\final\\.net\\map game project2\\game\\game.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F0FAC8-73BC-495E-91D4-64BA182992D3}|Game.Presentation\\Game.Presentation.csproj|solutionrelative:game.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F0FAC8-73BC-495E-91D4-64BA182992D3}|Game.Presentation\\Game.Presentation.csproj|f:\\iti\\data\\graduation project\\final\\.net\\map game project2\\game\\game.presentation\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F0FAC8-73BC-495E-91D4-64BA182992D3}|Game.Presentation\\Game.Presentation.csproj|solutionrelative:game.presentation\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E2AF6C8-F848-49D4-BFBB-7E22DED25F0D}|Game.Models\\Game.Models.csproj|f:\\iti\\data\\graduation project\\final\\.net\\map game project2\\game\\game.models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E2AF6C8-F848-49D4-BFBB-7E22DED25F0D}|Game.Models\\Game.Models.csproj|solutionrelative:game.models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F0FAC8-73BC-495E-91D4-64BA182992D3}|Game.Presentation\\Game.Presentation.csproj|f:\\iti\\data\\graduation project\\final\\.net\\map game project2\\game\\game.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E0F0FAC8-73BC-495E-91D4-64BA182992D3}|Game.Presentation\\Game.Presentation.csproj|solutionrelative:game.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{366E9E23-EC49-4891-BD53-FB8F4E8819DA}|Game.Dtos\\Game.Dtos.csproj|f:\\iti\\data\\graduation project\\final\\.net\\map game project2\\game\\game.dtos\\getscoredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{366E9E23-EC49-4891-BD53-FB8F4E8819DA}|Game.Dtos\\Game.Dtos.csproj|solutionrelative:game.dtos\\getscoredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E2AF6C8-F848-49D4-BFBB-7E22DED25F0D}|Game.Models\\Game.Models.csproj|f:\\iti\\data\\graduation project\\final\\.net\\map game project2\\game\\game.models\\usersscores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E2AF6C8-F848-49D4-BFBB-7E22DED25F0D}|Game.Models\\Game.Models.csproj|solutionrelative:game.models\\usersscores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E2AF6C8-F848-49D4-BFBB-7E22DED25F0D}|Game.Models\\Game.Models.csproj|f:\\iti\\data\\graduation project\\final\\.net\\map game project2\\game\\game.models\\games.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E2AF6C8-F848-49D4-BFBB-7E22DED25F0D}|Game.Models\\Game.Models.csproj|solutionrelative:game.models\\games.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F0FAC8-73BC-495E-91D4-64BA182992D3}|Game.Presentation\\Game.Presentation.csproj|f:\\iti\\data\\graduation project\\final\\.net\\map game project2\\game\\game.presentation\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F0FAC8-73BC-495E-91D4-64BA182992D3}|Game.Presentation\\Game.Presentation.csproj|solutionrelative:game.presentation\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1289385-76E6-45AF-A71D-F405D8DCF463}|Game.Services\\Game.Services.csproj|f:\\iti\\data\\graduation project\\final\\.net\\map game project2\\game\\game.services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1289385-76E6-45AF-A71D-F405D8DCF463}|Game.Services\\Game.Services.csproj|solutionrelative:game.services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1289385-76E6-45AF-A71D-F405D8DCF463}|Game.Services\\Game.Services.csproj|f:\\iti\\data\\graduation project\\final\\.net\\map game project2\\game\\game.services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1289385-76E6-45AF-A71D-F405D8DCF463}|Game.Services\\Game.Services.csproj|solutionrelative:game.services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F0FAC8-73BC-495E-91D4-64BA182992D3}|Game.Presentation\\Game.Presentation.csproj|f:\\iti\\data\\graduation project\\final\\.net\\map game project2\\game\\game.presentation\\controllers\\scorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F0FAC8-73BC-495E-91D4-64BA182992D3}|Game.Presentation\\Game.Presentation.csproj|solutionrelative:game.presentation\\controllers\\scorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1289385-76E6-45AF-A71D-F405D8DCF463}|Game.Services\\Game.Services.csproj|f:\\iti\\data\\graduation project\\final\\.net\\map game project2\\game\\game.services\\scoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1289385-76E6-45AF-A71D-F405D8DCF463}|Game.Services\\Game.Services.csproj|solutionrelative:game.services\\scoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1289385-76E6-45AF-A71D-F405D8DCF463}|Game.Services\\Game.Services.csproj|f:\\iti\\data\\graduation project\\final\\.net\\map game project2\\game\\game.services\\iscoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1289385-76E6-45AF-A71D-F405D8DCF463}|Game.Services\\Game.Services.csproj|solutionrelative:game.services\\iscoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "F:\\ITI\\DATA\\Graduation Project\\Final\\.NET\\map game project2\\Game\\Game.Models\\User.cs",
+              "RelativeDocumentMoniker": "Game.Models\\User.cs",
+              "ToolTip": "F:\\ITI\\DATA\\Graduation Project\\Final\\.NET\\map game project2\\Game\\Game.Models\\User.cs",
+              "RelativeToolTip": "Game.Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T18:28:57.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IScoreService.cs",
+              "DocumentMoniker": "F:\\ITI\\DATA\\Graduation Project\\Final\\.NET\\map game project2\\Game\\Game.Services\\IScoreService.cs",
+              "RelativeDocumentMoniker": "Game.Services\\IScoreService.cs",
+              "ToolTip": "F:\\ITI\\DATA\\Graduation Project\\Final\\.NET\\map game project2\\Game\\Game.Services\\IScoreService.cs",
+              "RelativeToolTip": "Game.Services\\IScoreService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T11:36:20.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ScoresController.cs",
+              "DocumentMoniker": "F:\\ITI\\DATA\\Graduation Project\\Final\\.NET\\map game project2\\Game\\Game.Presentation\\Controllers\\ScoresController.cs",
+              "RelativeDocumentMoniker": "Game.Presentation\\Controllers\\ScoresController.cs",
+              "ToolTip": "F:\\ITI\\DATA\\Graduation Project\\Final\\.NET\\map game project2\\Game\\Game.Presentation\\Controllers\\ScoresController.cs",
+              "RelativeToolTip": "Game.Presentation\\Controllers\\ScoresController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T08:52:13.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "F:\\ITI\\DATA\\Graduation Project\\Final\\.NET\\map game project2\\Game\\Game.Presentation\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Game.Presentation\\Controllers\\AccountController.cs",
+              "ToolTip": "F:\\ITI\\DATA\\Graduation Project\\Final\\.NET\\map game project2\\Game\\Game.Presentation\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Game.Presentation\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAFgAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T06:42:09.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\ITI\\DATA\\Graduation Project\\Final\\.NET\\map game project2\\Game\\Game.Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "Game.Presentation\\Program.cs",
+              "ToolTip": "F:\\ITI\\DATA\\Graduation Project\\Final\\.NET\\map game project2\\Game\\Game.Presentation\\Program.cs",
+              "RelativeToolTip": "Game.Presentation\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAHgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T14:58:22.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\ITI\\DATA\\Graduation Project\\Final\\.NET\\map game project2\\Game\\Game.Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "Game.Presentation\\appsettings.json",
+              "ToolTip": "F:\\ITI\\DATA\\Graduation Project\\Final\\.NET\\map game project2\\Game\\Game.Presentation\\appsettings.json",
+              "RelativeToolTip": "Game.Presentation\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-25T15:12:19.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Games.cs",
+              "DocumentMoniker": "F:\\ITI\\DATA\\Graduation Project\\Final\\.NET\\map game project2\\Game\\Game.Models\\Games.cs",
+              "RelativeDocumentMoniker": "Game.Models\\Games.cs",
+              "ToolTip": "F:\\ITI\\DATA\\Graduation Project\\Final\\.NET\\map game project2\\Game\\Game.Models\\Games.cs",
+              "RelativeToolTip": "Game.Models\\Games.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T18:30:17.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsersScores.cs",
+              "DocumentMoniker": "F:\\ITI\\DATA\\Graduation Project\\Final\\.NET\\map game project2\\Game\\Game.Models\\UsersScores.cs",
+              "RelativeDocumentMoniker": "Game.Models\\UsersScores.cs",
+              "ToolTip": "F:\\ITI\\DATA\\Graduation Project\\Final\\.NET\\map game project2\\Game\\Game.Models\\UsersScores.cs",
+              "RelativeToolTip": "Game.Models\\UsersScores.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T18:30:27.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "F:\\ITI\\DATA\\Graduation Project\\Final\\.NET\\map game project2\\Game\\Game.Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Game.Services\\UserService.cs",
+              "ToolTip": "F:\\ITI\\DATA\\Graduation Project\\Final\\.NET\\map game project2\\Game\\Game.Services\\UserService.cs",
+              "RelativeToolTip": "Game.Services\\UserService.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T06:41:51.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "F:\\ITI\\DATA\\Graduation Project\\Final\\.NET\\map game project2\\Game\\Game.Presentation\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Game.Presentation\\Controllers\\UsersController.cs",
+              "ToolTip": "F:\\ITI\\DATA\\Graduation Project\\Final\\.NET\\map game project2\\Game\\Game.Presentation\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Game.Presentation\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T06:40:46.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameDbContext.cs",
+              "DocumentMoniker": "F:\\ITI\\DATA\\Graduation Project\\Final\\.NET\\map game project2\\Game\\Game.Context\\Context\\GameDbContext.cs",
+              "RelativeDocumentMoniker": "Game.Context\\Context\\GameDbContext.cs",
+              "ToolTip": "F:\\ITI\\DATA\\Graduation Project\\Final\\.NET\\map game project2\\Game\\Game.Context\\Context\\GameDbContext.cs",
+              "RelativeToolTip": "Game.Context\\Context\\GameDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T15:03:53.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetScoreDto.cs",
+              "DocumentMoniker": "F:\\ITI\\DATA\\Graduation Project\\Final\\.NET\\map game project2\\Game\\Game.Dtos\\GetScoreDto.cs",
+              "RelativeDocumentMoniker": "Game.Dtos\\GetScoreDto.cs",
+              "ToolTip": "F:\\ITI\\DATA\\Graduation Project\\Final\\.NET\\map game project2\\Game\\Game.Dtos\\GetScoreDto.cs",
+              "RelativeToolTip": "Game.Dtos\\GetScoreDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T18:30:54.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ScoreService.cs",
+              "DocumentMoniker": "F:\\ITI\\DATA\\Graduation Project\\Final\\.NET\\map game project2\\Game\\Game.Services\\ScoreService.cs",
+              "RelativeDocumentMoniker": "Game.Services\\ScoreService.cs",
+              "ToolTip": "F:\\ITI\\DATA\\Graduation Project\\Final\\.NET\\map game project2\\Game\\Game.Services\\ScoreService.cs",
+              "RelativeToolTip": "Game.Services\\ScoreService.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T11:37:33.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "F:\\ITI\\DATA\\Graduation Project\\Final\\.NET\\map game project2\\Game\\Game.Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "Game.Services\\IUserService.cs",
+              "ToolTip": "F:\\ITI\\DATA\\Graduation Project\\Final\\.NET\\map game project2\\Game\\Game.Services\\IUserService.cs",
+              "RelativeToolTip": "Game.Services\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T11:42:04.484Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

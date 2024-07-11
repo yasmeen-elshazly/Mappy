@@ -1,0 +1,133 @@
+.map-wrapper {
+  display: flex;
+  height: 100vh; /* Full height of the viewport */
+  width: 100%; /* Full width of the viewport */
+}
+
+.map-container {
+  flex: 3; /* Take up 3/4 of the width */
+  border: 2px solid #4CAF50; /* Green border */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  margin: 20px;
+  overflow: hidden;
+}
+
+
+.sidebar {
+  flex: 1; /* Take up 1/4 of the width */
+  padding: 10px;
+  background-color: #f9f9f9; /* Light gray background */
+  border-left: 2px solid #4CAF50; /* Green border on the left */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  margin: 10px;
+  display:inline ;
+  flex-direction: column;
+  
+}
+
+
+.scoreContainer {
+  display: flex;
+  align-items: center;
+  padding: 20px 0px;
+}
+
+.starIcon {
+  margin-right: 8px;
+  padding-bottom: 3px;
+}
+
+.score {
+  font-size: 35px;
+  font-weight: 600;
+}
+
+.logo-container {
+  text-align: center;
+  margin-bottom: 100px;
+  margin-top: 30px;
+
+}
+
+.logo-container img {
+  max-width: 100%;
+  height: auto;
+}
+
+.content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.start-button,
+.learn-button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin-bottom: 30px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.start-button:hover,
+.learn-button:hover {
+  background-color: #0056b3;
+}
+
+.game-panel {
+  position: absolute;
+  top: 35%; /* Center vertically */
+  left: 65%; /* Center horizontally */
+  transform: translate(-50%, -50%); /* Move back by half of its own width and height */
+  width: 90vw;
+  max-width: 400px;
+  background-color: white;
+  border: 2px solid #4CAF50;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  padding: 20px;
+  text-align: center;
+  z-index: 10;
+}
+
+
+.success-message {
+  color: green;
+}
+
+.try-again-message {
+  color: red;
+}
+
+.hint-message {
+  font-style: italic;
+}
+
+.continent-info {
+  background-color: #fff;
+  padding: 20px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  margin: 20px;
+}
+
+/* Responsive adjustments */
+@media (min-width: 769px) {
+  .container {
+    flex-direction: row;
+  }
+
+  .map-container {
+    flex: 1 1 70%; /* 70% width, flexible */
+    order: 2; /* Ensure map is to the right of the sidebar on large screens */
+  }
+
+  .sidebar {
+    flex: 0 0 30%; /* 30% width, fixed */
+    order: 1; /* Ensure sidebar is to the left of the map on large screens */
+    width: auto;
+  }
+}

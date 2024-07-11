@@ -1,0 +1,49 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Africa",
+          "area": "30.37 million km²",
+          "countries": 54,
+          "population": "1.2 billion"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [-17.873887, 37.021848],
+              [51.124135, 37.021848],
+              [51.124135, -34.816199],
+              [-17.873887, -34.816199],
+              [-17.873887, 37.021848]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Asia",
+          "area": "44.58 million km²",
+          "countries": 49,
+          "population": "4.5 billion"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [95.712891, 77.707243],
+              [179.999999, 77.707243],
+              [179.999999, -11.082204],
+              [95.712891, -11.082204],
+              [95.712891, 77.707243]
+            ]
+          ]
+        }
+      }
+      
+    ]
+  }
+  

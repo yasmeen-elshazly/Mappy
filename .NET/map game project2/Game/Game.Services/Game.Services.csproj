@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="13.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Game.Context\Game.Context.csproj" />
+    <ProjectReference Include="..\Game.Dtos\Game.Dtos.csproj" />
+    <ProjectReference Include="..\Game.Models\Game.Models.csproj" />
+    <ProjectReference Include="..\Game.Repositories\Game.Repositories.csproj" />
+  </ItemGroup>
+
+</Project>

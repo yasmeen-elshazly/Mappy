@@ -1,0 +1,111 @@
+/* Full-page container */
+.leaderboard-container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(135deg, #40A578, #279EFF);
+    color: linear-gradient(135deg, #f5af19, #f12711);
+    padding: 20px;
+    box-sizing: border-box;
+    font-family: 'Arial', sans-serif;
+    animation: fadeIn 2s ease-in-out;
+  }
+  
+  .leaderboard-container h1 {
+    text-align: center;
+    font-size: 2.5em;
+    margin-bottom: 20px;
+    color: black; /* Gold color */
+    animation: bounce 2s infinite;
+  }
+  
+  .leaderboard-header, .leaderboard-row {
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px 0;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+  }
+  
+  .header-item, .row-item {
+    flex: 1;
+    text-align: center;
+  }
+  
+  .header-item {
+    font-weight: bold;
+    color: #ffffff;
+  }
+  
+  .leaderboard-row {
+    background: rgba(255, 255, 255, 0.1);
+    transition: background 0.3s ease;
+    animation: slideIn 0.5s forwards;
+  }
+  
+  .leaderboard-row:hover {
+    background: rgba(255, 255, 255, 0.2);
+  }
+  
+  .row-item {
+    padding: 5px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .player-photo {
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+  }
+  
+  .ranking-icon {
+    margin-right: 5px;
+  }
+  
+  .ranking-1 {
+    color: #ffd700; /* Gold */
+  }
+  
+  .ranking-2 {
+    color: #c0c0c0; /* Silver */
+  }
+  
+  .ranking-3 {
+    color: #cd7f32; /* Bronze */
+  }
+  
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+  
+  @keyframes bounce {
+    0%, 20%, 50%, 80%, 100% {
+      transform: translateY(0);
+    }
+    40% {
+      transform: translateY(-30px);
+    }
+    60% {
+      transform: translateY(-15px);
+    }
+  }
+  
+  @keyframes slideIn {
+    from {
+      transform: translateX(-100%);
+    }
+    to {
+      transform: translateX(0);
+    }
+  }
+  

@@ -1,0 +1,106 @@
+.Appp {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.contentt {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+  background: linear-gradient(to bottom, #40A578, #279EFF);
+}
+
+.cardd {
+  display: flex;
+  background-color: #f8f8f8;
+  width: 80%;
+  height: 550px;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin: 20px 0;
+  position: relative;
+}
+
+.left-sectionn {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.photoo img {
+  width: 400px;
+  height: 400px;
+  object-fit: cover;
+  border-radius: 10%;
+}
+
+.right-sectionn {
+  flex: 2;
+  padding-left: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.intro-cardd {
+  text-align: left;
+  font-family: 'Coffee Spark';
+  font-size: 35px;
+}
+
+.personal-info p {
+  /* margin: 5px 0; */
+}
+
+.buttonn-container {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+}
+
+.buttonn {
+  background: linear-gradient(to bottom, #40A578, #279EFF);
+  border: none;
+  color: white;
+  padding: 15px 30px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 20px;
+  font-family: 'Coffee Spark';
+ margin-left: 400px;
+}
+
+.inputFieldd {
+  padding: 8px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  margin-bottom: 10px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.image-selectionn {
+  margin-top: 10px;
+}
+
+.image-optionss {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.image-optionss img {
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  border-radius: 50%;
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+.image-optionss img:last-child {
+  margin-right: 0;
+}

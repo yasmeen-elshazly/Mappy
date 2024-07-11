@@ -1,0 +1,85 @@
+D:\iti courses\courses\asp.net\map game project\Game\Game.Repositories\bin\Debug\net8.0\Game.Repositories.deps.json
+D:\iti courses\courses\asp.net\map game project\Game\Game.Repositories\bin\Debug\net8.0\Game.Repositories.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Repositories\bin\Debug\net8.0\Game.Repositories.pdb
+D:\iti courses\courses\asp.net\map game project\Game\Game.Repositories\obj\Debug\net8.0\Game.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\iti courses\courses\asp.net\map game project\Game\Game.Repositories\obj\Debug\net8.0\Game.Repositories.AssemblyInfoInputs.cache
+D:\iti courses\courses\asp.net\map game project\Game\Game.Repositories\obj\Debug\net8.0\Game.Repositories.AssemblyInfo.cs
+D:\iti courses\courses\asp.net\map game project\Game\Game.Repositories\obj\Debug\net8.0\Game.Repositories.csproj.CoreCompileInputs.cache
+D:\iti courses\courses\asp.net\map game project\Game\Game.Repositories\obj\Debug\net8.0\Game.Repositories.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Repositories\obj\Debug\net8.0\refint\Game.Repositories.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Repositories\obj\Debug\net8.0\Game.Repositories.pdb
+D:\iti courses\courses\asp.net\map game project\Game\Game.Repositories\obj\Debug\net8.0\ref\Game.Repositories.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Repositories\obj\Debug\net8.0\Game.Repositories.csproj.AssemblyReference.cache
+D:\iti courses\courses\asp.net\map game project\Game\Game.Repositories\bin\Debug\net8.0\Game.Context.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Repositories\bin\Debug\net8.0\Game.Models.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Repositories\bin\Debug\net8.0\Game.Context.pdb
+D:\iti courses\courses\asp.net\map game project\Game\Game.Repositories\bin\Debug\net8.0\Game.Models.pdb
+D:\iti courses\courses\asp.net\map game project\Game\Game.Repositories\obj\Debug\net8.0\Game.Rep.E35C9775.Up2Date
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Repositories\bin\Debug\net8.0\Game.Repositories.deps.json
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Repositories\bin\Debug\net8.0\Game.Repositories.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Repositories\bin\Debug\net8.0\Game.Repositories.pdb
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Repositories\bin\Debug\net8.0\Game.Context.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Repositories\bin\Debug\net8.0\Game.Models.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Repositories\bin\Debug\net8.0\Game.Context.pdb
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Repositories\bin\Debug\net8.0\Game.Models.pdb
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Repositories\obj\Debug\net8.0\Game.Repositories.csproj.AssemblyReference.cache
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Repositories\obj\Debug\net8.0\Game.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Repositories\obj\Debug\net8.0\Game.Repositories.AssemblyInfoInputs.cache
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Repositories\obj\Debug\net8.0\Game.Repositories.AssemblyInfo.cs
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Repositories\obj\Debug\net8.0\Game.Repositories.csproj.CoreCompileInputs.cache
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Repositories\obj\Debug\net8.0\Game.Rep.E35C9775.Up2Date
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Repositories\obj\Debug\net8.0\Game.Repositories.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Repositories\obj\Debug\net8.0\refint\Game.Repositories.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Repositories\obj\Debug\net8.0\Game.Repositories.pdb
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Repositories\obj\Debug\net8.0\ref\Game.Repositories.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Repositories\bin\Debug\net8.0\Game.Repositories.deps.json
+F:\Graduation Project\React\123456\map game project2\Game\Game.Repositories\bin\Debug\net8.0\Game.Repositories.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Repositories\bin\Debug\net8.0\Game.Repositories.pdb
+F:\Graduation Project\React\123456\map game project2\Game\Game.Repositories\bin\Debug\net8.0\Game.Context.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Repositories\bin\Debug\net8.0\Game.Models.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Repositories\bin\Debug\net8.0\Game.Context.pdb
+F:\Graduation Project\React\123456\map game project2\Game\Game.Repositories\bin\Debug\net8.0\Game.Models.pdb
+F:\Graduation Project\React\123456\map game project2\Game\Game.Repositories\obj\Debug\net8.0\Game.Repositories.csproj.AssemblyReference.cache
+F:\Graduation Project\React\123456\map game project2\Game\Game.Repositories\obj\Debug\net8.0\Game.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+F:\Graduation Project\React\123456\map game project2\Game\Game.Repositories\obj\Debug\net8.0\Game.Repositories.AssemblyInfoInputs.cache
+F:\Graduation Project\React\123456\map game project2\Game\Game.Repositories\obj\Debug\net8.0\Game.Repositories.AssemblyInfo.cs
+F:\Graduation Project\React\123456\map game project2\Game\Game.Repositories\obj\Debug\net8.0\Game.Repositories.csproj.CoreCompileInputs.cache
+F:\Graduation Project\React\123456\map game project2\Game\Game.Repositories\obj\Debug\net8.0\Game.Rep.E35C9775.Up2Date
+F:\Graduation Project\React\123456\map game project2\Game\Game.Repositories\obj\Debug\net8.0\Game.Repositories.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Repositories\obj\Debug\net8.0\refint\Game.Repositories.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Repositories\obj\Debug\net8.0\Game.Repositories.pdb
+F:\Graduation Project\React\123456\map game project2\Game\Game.Repositories\obj\Debug\net8.0\ref\Game.Repositories.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Repositories\bin\Debug\net8.0\Game.Repositories.deps.json
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Repositories\bin\Debug\net8.0\Game.Repositories.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Repositories\bin\Debug\net8.0\Game.Repositories.pdb
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Repositories\bin\Debug\net8.0\Game.Context.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Repositories\bin\Debug\net8.0\Game.Models.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Repositories\bin\Debug\net8.0\Game.Context.pdb
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Repositories\bin\Debug\net8.0\Game.Models.pdb
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Repositories\obj\Debug\net8.0\Game.Repositories.csproj.AssemblyReference.cache
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Repositories\obj\Debug\net8.0\Game.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Repositories\obj\Debug\net8.0\Game.Repositories.AssemblyInfoInputs.cache
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Repositories\obj\Debug\net8.0\Game.Repositories.AssemblyInfo.cs
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Repositories\obj\Debug\net8.0\Game.Repositories.csproj.CoreCompileInputs.cache
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Repositories\obj\Debug\net8.0\Game.Rep.E35C9775.Up2Date
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Repositories\obj\Debug\net8.0\Game.Repositories.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Repositories\obj\Debug\net8.0\refint\Game.Repositories.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Repositories\obj\Debug\net8.0\Game.Repositories.pdb
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Repositories\obj\Debug\net8.0\ref\Game.Repositories.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Repositories\bin\Debug\net8.0\Game.Repositories.deps.json
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Repositories\bin\Debug\net8.0\Game.Repositories.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Repositories\bin\Debug\net8.0\Game.Repositories.pdb
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Repositories\bin\Debug\net8.0\Game.Context.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Repositories\bin\Debug\net8.0\Game.Models.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Repositories\bin\Debug\net8.0\Game.Context.pdb
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Repositories\bin\Debug\net8.0\Game.Models.pdb
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Repositories\obj\Debug\net8.0\Game.Repositories.csproj.AssemblyReference.cache
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Repositories\obj\Debug\net8.0\Game.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Repositories\obj\Debug\net8.0\Game.Repositories.AssemblyInfoInputs.cache
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Repositories\obj\Debug\net8.0\Game.Repositories.AssemblyInfo.cs
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Repositories\obj\Debug\net8.0\Game.Repositories.csproj.CoreCompileInputs.cache
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Repositories\obj\Debug\net8.0\Game.Rep.E35C9775.Up2Date
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Repositories\obj\Debug\net8.0\Game.Repositories.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Repositories\obj\Debug\net8.0\refint\Game.Repositories.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Repositories\obj\Debug\net8.0\Game.Repositories.pdb
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Repositories\obj\Debug\net8.0\ref\Game.Repositories.dll

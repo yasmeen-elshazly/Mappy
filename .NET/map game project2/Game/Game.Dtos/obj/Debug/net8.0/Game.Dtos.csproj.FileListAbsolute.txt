@@ -1,0 +1,85 @@
+D:\iti courses\courses\asp.net\map game project\Game\Game.Dtos\bin\Debug\net8.0\Game.Dtos.deps.json
+D:\iti courses\courses\asp.net\map game project\Game\Game.Dtos\bin\Debug\net8.0\Game.Dtos.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Dtos\bin\Debug\net8.0\Game.Dtos.pdb
+D:\iti courses\courses\asp.net\map game project\Game\Game.Dtos\obj\Debug\net8.0\Game.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+D:\iti courses\courses\asp.net\map game project\Game\Game.Dtos\obj\Debug\net8.0\Game.Dtos.AssemblyInfoInputs.cache
+D:\iti courses\courses\asp.net\map game project\Game\Game.Dtos\obj\Debug\net8.0\Game.Dtos.AssemblyInfo.cs
+D:\iti courses\courses\asp.net\map game project\Game\Game.Dtos\obj\Debug\net8.0\Game.Dtos.csproj.CoreCompileInputs.cache
+D:\iti courses\courses\asp.net\map game project\Game\Game.Dtos\obj\Debug\net8.0\Game.Dtos.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Dtos\obj\Debug\net8.0\refint\Game.Dtos.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Dtos\obj\Debug\net8.0\Game.Dtos.pdb
+D:\iti courses\courses\asp.net\map game project\Game\Game.Dtos\obj\Debug\net8.0\ref\Game.Dtos.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Dtos\bin\Debug\net8.0\Game.Context.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Dtos\bin\Debug\net8.0\Game.Models.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Dtos\bin\Debug\net8.0\Game.Context.pdb
+D:\iti courses\courses\asp.net\map game project\Game\Game.Dtos\bin\Debug\net8.0\Game.Models.pdb
+D:\iti courses\courses\asp.net\map game project\Game\Game.Dtos\obj\Debug\net8.0\Game.Dtos.csproj.AssemblyReference.cache
+D:\iti courses\courses\asp.net\map game project\Game\Game.Dtos\obj\Debug\net8.0\Game.Dtos.csproj.Up2Date
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Dtos\bin\Debug\net8.0\Game.Dtos.deps.json
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Dtos\bin\Debug\net8.0\Game.Dtos.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Dtos\bin\Debug\net8.0\Game.Dtos.pdb
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Dtos\bin\Debug\net8.0\Game.Context.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Dtos\bin\Debug\net8.0\Game.Models.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Dtos\bin\Debug\net8.0\Game.Context.pdb
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Dtos\bin\Debug\net8.0\Game.Models.pdb
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Dtos\obj\Debug\net8.0\Game.Dtos.csproj.AssemblyReference.cache
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Dtos\obj\Debug\net8.0\Game.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Dtos\obj\Debug\net8.0\Game.Dtos.AssemblyInfoInputs.cache
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Dtos\obj\Debug\net8.0\Game.Dtos.AssemblyInfo.cs
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Dtos\obj\Debug\net8.0\Game.Dtos.csproj.CoreCompileInputs.cache
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Dtos\obj\Debug\net8.0\Game.Dtos.csproj.Up2Date
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Dtos\obj\Debug\net8.0\Game.Dtos.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Dtos\obj\Debug\net8.0\refint\Game.Dtos.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Dtos\obj\Debug\net8.0\Game.Dtos.pdb
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Dtos\obj\Debug\net8.0\ref\Game.Dtos.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Dtos\bin\Debug\net8.0\Game.Dtos.deps.json
+F:\Graduation Project\React\123456\map game project2\Game\Game.Dtos\bin\Debug\net8.0\Game.Dtos.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Dtos\bin\Debug\net8.0\Game.Dtos.pdb
+F:\Graduation Project\React\123456\map game project2\Game\Game.Dtos\bin\Debug\net8.0\Game.Context.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Dtos\bin\Debug\net8.0\Game.Models.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Dtos\bin\Debug\net8.0\Game.Context.pdb
+F:\Graduation Project\React\123456\map game project2\Game\Game.Dtos\bin\Debug\net8.0\Game.Models.pdb
+F:\Graduation Project\React\123456\map game project2\Game\Game.Dtos\obj\Debug\net8.0\Game.Dtos.csproj.AssemblyReference.cache
+F:\Graduation Project\React\123456\map game project2\Game\Game.Dtos\obj\Debug\net8.0\Game.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+F:\Graduation Project\React\123456\map game project2\Game\Game.Dtos\obj\Debug\net8.0\Game.Dtos.AssemblyInfoInputs.cache
+F:\Graduation Project\React\123456\map game project2\Game\Game.Dtos\obj\Debug\net8.0\Game.Dtos.AssemblyInfo.cs
+F:\Graduation Project\React\123456\map game project2\Game\Game.Dtos\obj\Debug\net8.0\Game.Dtos.csproj.CoreCompileInputs.cache
+F:\Graduation Project\React\123456\map game project2\Game\Game.Dtos\obj\Debug\net8.0\Game.Dtos.csproj.Up2Date
+F:\Graduation Project\React\123456\map game project2\Game\Game.Dtos\obj\Debug\net8.0\Game.Dtos.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Dtos\obj\Debug\net8.0\refint\Game.Dtos.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Dtos\obj\Debug\net8.0\Game.Dtos.pdb
+F:\Graduation Project\React\123456\map game project2\Game\Game.Dtos\obj\Debug\net8.0\ref\Game.Dtos.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Dtos\bin\Debug\net8.0\Game.Dtos.deps.json
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Dtos\bin\Debug\net8.0\Game.Dtos.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Dtos\bin\Debug\net8.0\Game.Dtos.pdb
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Dtos\bin\Debug\net8.0\Game.Context.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Dtos\bin\Debug\net8.0\Game.Models.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Dtos\bin\Debug\net8.0\Game.Context.pdb
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Dtos\bin\Debug\net8.0\Game.Models.pdb
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Dtos\obj\Debug\net8.0\Game.Dtos.csproj.AssemblyReference.cache
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Dtos\obj\Debug\net8.0\Game.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Dtos\obj\Debug\net8.0\Game.Dtos.AssemblyInfoInputs.cache
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Dtos\obj\Debug\net8.0\Game.Dtos.AssemblyInfo.cs
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Dtos\obj\Debug\net8.0\Game.Dtos.csproj.CoreCompileInputs.cache
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Dtos\obj\Debug\net8.0\Game.Dtos.csproj.Up2Date
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Dtos\obj\Debug\net8.0\Game.Dtos.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Dtos\obj\Debug\net8.0\refint\Game.Dtos.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Dtos\obj\Debug\net8.0\Game.Dtos.pdb
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Dtos\obj\Debug\net8.0\ref\Game.Dtos.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Dtos\bin\Debug\net8.0\Game.Dtos.deps.json
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Dtos\bin\Debug\net8.0\Game.Dtos.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Dtos\bin\Debug\net8.0\Game.Dtos.pdb
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Dtos\bin\Debug\net8.0\Game.Context.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Dtos\bin\Debug\net8.0\Game.Models.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Dtos\bin\Debug\net8.0\Game.Context.pdb
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Dtos\bin\Debug\net8.0\Game.Models.pdb
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Dtos\obj\Debug\net8.0\Game.Dtos.csproj.AssemblyReference.cache
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Dtos\obj\Debug\net8.0\Game.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Dtos\obj\Debug\net8.0\Game.Dtos.AssemblyInfoInputs.cache
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Dtos\obj\Debug\net8.0\Game.Dtos.AssemblyInfo.cs
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Dtos\obj\Debug\net8.0\Game.Dtos.csproj.CoreCompileInputs.cache
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Dtos\obj\Debug\net8.0\Game.Dtos.csproj.Up2Date
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Dtos\obj\Debug\net8.0\Game.Dtos.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Dtos\obj\Debug\net8.0\refint\Game.Dtos.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Dtos\obj\Debug\net8.0\Game.Dtos.pdb
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Dtos\obj\Debug\net8.0\ref\Game.Dtos.dll

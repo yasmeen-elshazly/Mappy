@@ -1,0 +1,770 @@
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\obj\Debug\net8.0\Game.Presentation.csproj.AssemblyReference.cache
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\obj\Debug\net8.0\Game.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\obj\Debug\net8.0\Game.Presentation.AssemblyInfoInputs.cache
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\obj\Debug\net8.0\Game.Presentation.AssemblyInfo.cs
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\obj\Debug\net8.0\Game.Presentation.csproj.CoreCompileInputs.cache
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\obj\Debug\net8.0\Game.Presentation.MvcApplicationPartsAssemblyInfo.cs
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\obj\Debug\net8.0\Game.Presentation.MvcApplicationPartsAssemblyInfo.cache
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\appsettings.Development.json
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\appsettings.json
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\Game.Presentation.exe
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\Game.Presentation.deps.json
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\Game.Presentation.runtimeconfig.json
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\Game.Presentation.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\Game.Presentation.pdb
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\Azure.Core.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\Azure.Identity.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\Humanizer.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\System.CodeDom.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\System.Memory.Data.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\Game.Context.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\Game.Models.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\Game.Context.pdb
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\Game.Models.pdb
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\obj\Debug\net8.0\staticwebassets.build.json
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\obj\Debug\net8.0\staticwebassets.development.json
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\obj\Debug\net8.0\staticwebassets\msbuild.Game.Presentation.Microsoft.AspNetCore.StaticWebAssets.props
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\obj\Debug\net8.0\staticwebassets\msbuild.build.Game.Presentation.props
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Game.Presentation.props
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Game.Presentation.props
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\obj\Debug\net8.0\staticwebassets.pack.json
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\obj\Debug\net8.0\scopedcss\bundle\Game.Presentation.styles.css
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\obj\Debug\net8.0\Game.Pre.5313C424.Up2Date
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\obj\Debug\net8.0\Game.Presentation.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\obj\Debug\net8.0\refint\Game.Presentation.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\obj\Debug\net8.0\Game.Presentation.pdb
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\obj\Debug\net8.0\Game.Presentation.genruntimeconfig.cache
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\obj\Debug\net8.0\ref\Game.Presentation.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\AutoMapper.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\Game.Dtos.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\Game.Repositories.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\Game.Services.dll
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\Game.Dtos.pdb
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\Game.Repositories.pdb
+D:\iti courses\courses\asp.net\map game project\Game\Game.Presentation\bin\Debug\net8.0\Game.Services.pdb
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\appsettings.Development.json
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\appsettings.json
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Game.Presentation.exe
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Game.Presentation.deps.json
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Game.Presentation.runtimeconfig.json
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Game.Presentation.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Game.Presentation.pdb
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\AutoMapper.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Azure.Core.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Azure.Identity.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Humanizer.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\System.CodeDom.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\System.Memory.Data.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Game.Context.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Game.Dtos.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Game.Models.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Game.Repositories.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Game.Services.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Game.Context.pdb
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Game.Dtos.pdb
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Game.Models.pdb
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Game.Repositories.pdb
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Game.Services.pdb
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\obj\Debug\net8.0\Game.Presentation.csproj.AssemblyReference.cache
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\obj\Debug\net8.0\Game.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\obj\Debug\net8.0\Game.Presentation.AssemblyInfoInputs.cache
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\obj\Debug\net8.0\Game.Presentation.AssemblyInfo.cs
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\obj\Debug\net8.0\Game.Presentation.csproj.CoreCompileInputs.cache
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\obj\Debug\net8.0\Game.Presentation.MvcApplicationPartsAssemblyInfo.cs
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\obj\Debug\net8.0\Game.Presentation.MvcApplicationPartsAssemblyInfo.cache
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\obj\Debug\net8.0\staticwebassets.build.json
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\obj\Debug\net8.0\staticwebassets.development.json
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\obj\Debug\net8.0\staticwebassets\msbuild.Game.Presentation.Microsoft.AspNetCore.StaticWebAssets.props
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\obj\Debug\net8.0\staticwebassets\msbuild.build.Game.Presentation.props
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Game.Presentation.props
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Game.Presentation.props
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\obj\Debug\net8.0\staticwebassets.pack.json
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\obj\Debug\net8.0\scopedcss\bundle\Game.Presentation.styles.css
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\obj\Debug\net8.0\Game.Pre.5313C424.Up2Date
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\obj\Debug\net8.0\Game.Presentation.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\obj\Debug\net8.0\refint\Game.Presentation.dll
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\obj\Debug\net8.0\Game.Presentation.pdb
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\obj\Debug\net8.0\Game.Presentation.genruntimeconfig.cache
+D:\iti courses\courses\asp.net\map game project2\Game\Game.Presentation\obj\Debug\net8.0\ref\Game.Presentation.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\appsettings.Development.json
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\appsettings.json
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Game.Presentation.exe
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Game.Presentation.deps.json
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Game.Presentation.runtimeconfig.json
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Game.Presentation.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Game.Presentation.pdb
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\AutoMapper.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Azure.Core.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Azure.Identity.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Humanizer.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Mono.TextTemplating.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\System.CodeDom.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\System.Composition.Convention.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\System.Composition.Hosting.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\System.Composition.Runtime.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\System.Composition.TypedParts.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\System.Drawing.Common.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\System.Memory.Data.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\System.Runtime.Caching.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Game.Context.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Game.Dtos.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Game.Models.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Game.Repositories.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Game.Services.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Game.Context.pdb
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Game.Dtos.pdb
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Game.Models.pdb
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Game.Repositories.pdb
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Game.Services.pdb
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\obj\Debug\net8.0\Game.Presentation.csproj.AssemblyReference.cache
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\obj\Debug\net8.0\Game.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\obj\Debug\net8.0\Game.Presentation.AssemblyInfoInputs.cache
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\obj\Debug\net8.0\Game.Presentation.AssemblyInfo.cs
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\obj\Debug\net8.0\Game.Presentation.csproj.CoreCompileInputs.cache
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\obj\Debug\net8.0\Game.Presentation.MvcApplicationPartsAssemblyInfo.cs
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\obj\Debug\net8.0\Game.Presentation.MvcApplicationPartsAssemblyInfo.cache
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\obj\Debug\net8.0\staticwebassets.build.json
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\obj\Debug\net8.0\staticwebassets.development.json
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\obj\Debug\net8.0\staticwebassets\msbuild.Game.Presentation.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\obj\Debug\net8.0\staticwebassets\msbuild.build.Game.Presentation.props
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Game.Presentation.props
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Game.Presentation.props
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\obj\Debug\net8.0\staticwebassets.pack.json
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\obj\Debug\net8.0\scopedcss\bundle\Game.Presentation.styles.css
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\obj\Debug\net8.0\Game.Pre.5313C424.Up2Date
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\obj\Debug\net8.0\Game.Presentation.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\obj\Debug\net8.0\refint\Game.Presentation.dll
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\obj\Debug\net8.0\Game.Presentation.pdb
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\obj\Debug\net8.0\Game.Presentation.genruntimeconfig.cache
+F:\Graduation Project\React\123456\map game project2\Game\Game.Presentation\obj\Debug\net8.0\ref\Game.Presentation.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\appsettings.Development.json
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\appsettings.json
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Game.Presentation.exe
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Game.Presentation.deps.json
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Game.Presentation.runtimeconfig.json
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Game.Presentation.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Game.Presentation.pdb
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\AutoMapper.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Azure.Core.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Azure.Identity.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Humanizer.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\System.CodeDom.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\System.Memory.Data.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Game.Context.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Game.Dtos.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Game.Models.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Game.Repositories.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Game.Services.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Game.Context.pdb
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Game.Dtos.pdb
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Game.Models.pdb
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Game.Repositories.pdb
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Game.Services.pdb
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\obj\Debug\net8.0\Game.Presentation.csproj.AssemblyReference.cache
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\obj\Debug\net8.0\Game.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\obj\Debug\net8.0\Game.Presentation.AssemblyInfoInputs.cache
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\obj\Debug\net8.0\Game.Presentation.AssemblyInfo.cs
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\obj\Debug\net8.0\Game.Presentation.csproj.CoreCompileInputs.cache
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\obj\Debug\net8.0\Game.Presentation.MvcApplicationPartsAssemblyInfo.cs
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\obj\Debug\net8.0\Game.Presentation.MvcApplicationPartsAssemblyInfo.cache
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\obj\Debug\net8.0\staticwebassets.build.json
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\obj\Debug\net8.0\staticwebassets.development.json
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\obj\Debug\net8.0\staticwebassets\msbuild.Game.Presentation.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\obj\Debug\net8.0\staticwebassets\msbuild.build.Game.Presentation.props
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Game.Presentation.props
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Game.Presentation.props
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\obj\Debug\net8.0\staticwebassets.pack.json
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\obj\Debug\net8.0\scopedcss\bundle\Game.Presentation.styles.css
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\obj\Debug\net8.0\Game.Pre.5313C424.Up2Date
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\obj\Debug\net8.0\Game.Presentation.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\obj\Debug\net8.0\refint\Game.Presentation.dll
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\obj\Debug\net8.0\Game.Presentation.pdb
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\obj\Debug\net8.0\Game.Presentation.genruntimeconfig.cache
+D:\ITI\Graduation Project\Education (Gamming Map)\.NET\map game project2\Game\Game.Presentation\obj\Debug\net8.0\ref\Game.Presentation.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\appsettings.Development.json
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\appsettings.json
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Game.Presentation.exe
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Game.Presentation.deps.json
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Game.Presentation.runtimeconfig.json
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Game.Presentation.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Game.Presentation.pdb
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\AutoMapper.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Azure.Core.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Azure.Identity.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Humanizer.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Mono.TextTemplating.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\System.CodeDom.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\System.Composition.Convention.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\System.Composition.Hosting.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\System.Composition.Runtime.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\System.Composition.TypedParts.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\System.Drawing.Common.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\System.Memory.Data.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\System.Runtime.Caching.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Game.Context.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Game.Dtos.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Game.Models.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Game.Repositories.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Game.Services.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Game.Context.pdb
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Game.Dtos.pdb
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Game.Models.pdb
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Game.Repositories.pdb
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\bin\Debug\net8.0\Game.Services.pdb
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\obj\Debug\net8.0\Game.Presentation.csproj.AssemblyReference.cache
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\obj\Debug\net8.0\Game.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\obj\Debug\net8.0\Game.Presentation.AssemblyInfoInputs.cache
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\obj\Debug\net8.0\Game.Presentation.AssemblyInfo.cs
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\obj\Debug\net8.0\Game.Presentation.csproj.CoreCompileInputs.cache
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\obj\Debug\net8.0\Game.Presentation.MvcApplicationPartsAssemblyInfo.cs
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\obj\Debug\net8.0\Game.Presentation.MvcApplicationPartsAssemblyInfo.cache
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\obj\Debug\net8.0\staticwebassets.build.json
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\obj\Debug\net8.0\staticwebassets.development.json
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\obj\Debug\net8.0\staticwebassets\msbuild.Game.Presentation.Microsoft.AspNetCore.StaticWebAssets.props
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\obj\Debug\net8.0\staticwebassets\msbuild.build.Game.Presentation.props
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Game.Presentation.props
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Game.Presentation.props
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\obj\Debug\net8.0\staticwebassets.pack.json
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\obj\Debug\net8.0\scopedcss\bundle\Game.Presentation.styles.css
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\obj\Debug\net8.0\Game.Pre.5313C424.Up2Date
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\obj\Debug\net8.0\Game.Presentation.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\obj\Debug\net8.0\refint\Game.Presentation.dll
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\obj\Debug\net8.0\Game.Presentation.pdb
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\obj\Debug\net8.0\Game.Presentation.genruntimeconfig.cache
+F:\ITI\DATA\Graduation Project\Final\.NET\map game project2\Game\Game.Presentation\obj\Debug\net8.0\ref\Game.Presentation.dll

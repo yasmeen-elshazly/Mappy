@@ -1,0 +1,249 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\ITI\\DATA\\Graduation Project\\Final\\.NET\\map game project2\\Game\\Game.Dtos\\Game.Dtos.csproj": {}
+  },
+  "projects": {
+    "F:\\ITI\\DATA\\Graduation Project\\Final\\.NET\\map game project2\\Game\\Game.Context\\Game.Context.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\ITI\\DATA\\Graduation Project\\Final\\.NET\\map game project2\\Game\\Game.Context\\Game.Context.csproj",
+        "projectName": "Game.Context",
+        "projectPath": "F:\\ITI\\DATA\\Graduation Project\\Final\\.NET\\map game project2\\Game\\Game.Context\\Game.Context.csproj",
+        "packagesPath": "C:\\Users\\Yasmeen Elshazly\\.nuget\\packages\\",
+        "outputPath": "F:\\ITI\\DATA\\Graduation Project\\Final\\.NET\\map game project2\\Game\\Game.Context\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Yasmeen Elshazly\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "F:\\ITI\\DATA\\Graduation Project\\Final\\.NET\\map game project2\\Game\\Game.Models\\Game.Models.csproj": {
+                "projectPath": "F:\\ITI\\DATA\\Graduation Project\\Final\\.NET\\map game project2\\Game\\Game.Models\\Game.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.Extensions.Identity.Core": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\ITI\\DATA\\Graduation Project\\Final\\.NET\\map game project2\\Game\\Game.Dtos\\Game.Dtos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\ITI\\DATA\\Graduation Project\\Final\\.NET\\map game project2\\Game\\Game.Dtos\\Game.Dtos.csproj",
+        "projectName": "Game.Dtos",
+        "projectPath": "F:\\ITI\\DATA\\Graduation Project\\Final\\.NET\\map game project2\\Game\\Game.Dtos\\Game.Dtos.csproj",
+        "packagesPath": "C:\\Users\\Yasmeen Elshazly\\.nuget\\packages\\",
+        "outputPath": "F:\\ITI\\DATA\\Graduation Project\\Final\\.NET\\map game project2\\Game\\Game.Dtos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Yasmeen Elshazly\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "F:\\ITI\\DATA\\Graduation Project\\Final\\.NET\\map game project2\\Game\\Game.Context\\Game.Context.csproj": {
+                "projectPath": "F:\\ITI\\DATA\\Graduation Project\\Final\\.NET\\map game project2\\Game\\Game.Context\\Game.Context.csproj"
+              },
+              "F:\\ITI\\DATA\\Graduation Project\\Final\\.NET\\map game project2\\Game\\Game.Models\\Game.Models.csproj": {
+                "projectPath": "F:\\ITI\\DATA\\Graduation Project\\Final\\.NET\\map game project2\\Game\\Game.Models\\Game.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\ITI\\DATA\\Graduation Project\\Final\\.NET\\map game project2\\Game\\Game.Models\\Game.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\ITI\\DATA\\Graduation Project\\Final\\.NET\\map game project2\\Game\\Game.Models\\Game.Models.csproj",
+        "projectName": "Game.Models",
+        "projectPath": "F:\\ITI\\DATA\\Graduation Project\\Final\\.NET\\map game project2\\Game\\Game.Models\\Game.Models.csproj",
+        "packagesPath": "C:\\Users\\Yasmeen Elshazly\\.nuget\\packages\\",
+        "outputPath": "F:\\ITI\\DATA\\Graduation Project\\Final\\.NET\\map game project2\\Game\\Game.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Yasmeen Elshazly\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
